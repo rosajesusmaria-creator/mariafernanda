@@ -9,13 +9,13 @@
 /* Estilo do Corpo (Body) */
 body {
     background-color: #f4f7f6; /* Cor de fundo suave */
-    color: #333; /* Cor do texto principal */
+    color: #b21414; /* Cor do texto principal */
     transition: background-color 0.5s ease; /* Efeito suave quando o JS mudar a cor */
 }
 
 /* Estilo do Cabeçalho */
 header {
-    background-color: #4A90E2; /* Cor azul moderna */
+    background-color: #266ab8; /* Cor azul moderna */
     color: white;
     text-align: center;
     padding: 40px 20px;
@@ -49,8 +49,8 @@ header h1 {
 
 /* Estilo do Botão Interativo */
 button {
-    background-color: #2ECC71; /* Cor verde */
-    color: white;
+    background-color: #cc4e2e; /* Cor verde */
+    color: rgb(47, 44, 44);
     border: none;
     padding: 12px 24px;
     font-size: 1rem;
@@ -63,7 +63,7 @@ button {
 
 /* Efeito quando passa o mouse por cima do botão (Hover) */
 button:hover {
-    background-color: #27AE60; /* Verde mais escuro */
+    background-color: #39413c; /* Verde mais escuro */
 }
 
 /* Estilo do Rodapé */
